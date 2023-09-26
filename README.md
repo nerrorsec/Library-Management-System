@@ -1,5 +1,5 @@
 # Library-Management-System
 
 ### Default Credentials
-
-`to be added`
+Username: `admin`
+Password: `password`
